@@ -1,7 +1,7 @@
 ---
 title: 'What Is Photography and What It Means To Me !!! '
 subtitle: A intresting tale about Photography and me
-date: 2018-01-15
+date: 2020-07-16T18:00:00Z
 thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
