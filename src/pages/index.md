@@ -8,7 +8,7 @@ intro_actions:
 - type: action
   template: action
   label: Contact
-  url: "/contact"
+  url: https://soykot.info/
   style: secondary
   icon_class: ''
   new_window: false
