@@ -1,23 +1,21 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: Hello! I'm Soykot. I develop web applications. My core skill is based
+  on JavaScript and python. I am currently pursuing my bachelor's degree at Primeasia
+  University.
 intro_actions:
-  - type: action
-    template: action
-    label: Learn More
-    url: /about
-    style: primary
-  - type: action
-    template: action
-    label: Contact
-    url: /contact
-    style: secondary
+- type: action
+  template: action
+  label: Contact
+  url: "/contact"
+  style: secondary
+  icon_class: ''
+  new_window: false
+  no_follow: false
 has_more_link: true
 more_link_text: Read more
 template: home
+excerpt: ''
+
 ---
